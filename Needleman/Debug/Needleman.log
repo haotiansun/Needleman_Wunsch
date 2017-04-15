@@ -1,0 +1,14 @@
+﻿Build started 2017/4/15 12:14:09.
+     1>Project "c:\Users\Lenovo\documents\visual studio 2013\Projects\Needleman\Needleman\Needleman.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Needleman.cpp
+         Needleman.cpp
+     1>c:\users\lenovo\documents\visual studio 2013\projects\needleman\needleman\needleman.cpp(57): warning C4715: 'find_acgt' : not all control paths return a value
+       Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\lenovo\documents\visual studio 2013\Projects\Needleman\Debug\Needleman.exe" /INCREMENTAL /NOLOGO opencv_ml2412d.lib opencv_calib3d2412d.lib opencv_contrib2412d.lib opencv_core2412d.lib opencv_features2d2412d.lib opencv_flann2412d.lib opencv_gpu2412d.lib opencv_highgui2412d.lib opencv_imgproc2412d.lib opencv_legacy2412d.lib opencv_objdetect2412d.lib opencv_ts2412d.lib opencv_video2412d.lib opencv_nonfree2412d.lib opencv_ocl2412d.lib opencv_photo2412d.lib opencv_stitching2412d.lib opencv_superres2412d.lib opencv_videostab2412d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\lenovo\documents\visual studio 2013\Projects\Needleman\Debug\Needleman.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\lenovo\documents\visual studio 2013\Projects\Needleman\Debug\Needleman.lib" /MACHINE:X86 Debug\Needleman.obj
+         Needleman.vcxproj -> c:\users\lenovo\documents\visual studio 2013\Projects\Needleman\Debug\Needleman.exe
+     1>Done Building Project "c:\Users\Lenovo\documents\visual studio 2013\Projects\Needleman\Needleman\Needleman.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.34
